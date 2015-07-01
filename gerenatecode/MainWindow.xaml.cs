@@ -25,6 +25,7 @@ namespace gerenatecode
     {
         public MainWindow()
         {
+            /*test*/
             InitializeComponent();
             txtConnection.Text = @"Data Source=.; Integrated Security=True; Initial Catalog=TemplateGeneration; Pooling=True; MultipleActiveResultSets=True;";
             txtFilePath.Text = @"c:\GenerateCode\";
