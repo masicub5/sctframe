@@ -4283,7 +4283,7 @@ DESTINATION 0 新宋体,8,N</a:FontList>
 <o:ReferenceSymbol Id="o17">
 <a:CreationDate>1384591170</a:CreationDate>
 <a:ModificationDate>1393657214</a:ModificationDate>
-<a:Rect>((-1958,-102161), (26042,-100840))</a:Rect>
+<a:Rect>((-1958,-102161), (26042,-100839))</a:Rect>
 <a:ListOfPoints>((26042,-101936),(-1958,-101936))</a:ListOfPoints>
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
@@ -4305,7 +4305,7 @@ DESTINATION 0 新宋体,8,N</a:FontList>
 <o:ReferenceSymbol Id="o21">
 <a:CreationDate>1384591174</a:CreationDate>
 <a:ModificationDate>1393657214</a:ModificationDate>
-<a:Rect>((-4583,-101936), (26042,-42840))</a:Rect>
+<a:Rect>((-4583,-101936), (26042,-42839))</a:Rect>
 <a:ListOfPoints>((26042,-43936),(-1958,-43936),(-1958,-101936))</a:ListOfPoints>
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
@@ -4349,7 +4349,7 @@ DESTINATION 0 新宋体,8,N</a:FontList>
 <o:ReferenceSymbol Id="o27">
 <a:CreationDate>1384591309</a:CreationDate>
 <a:ModificationDate>1433003319</a:ModificationDate>
-<a:Rect>((36692,-72198), (54042,-70877))</a:Rect>
+<a:Rect>((36692,-72198), (54042,-70876))</a:Rect>
 <a:ListOfPoints>((36692,-71973),(54042,-71973))</a:ListOfPoints>
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
@@ -4371,7 +4371,7 @@ DESTINATION 0 新宋体,8,N</a:FontList>
 <o:ReferenceSymbol Id="o31">
 <a:CreationDate>1384591310</a:CreationDate>
 <a:ModificationDate>1433003319</a:ModificationDate>
-<a:Rect>((23230,-73107), (36692,-43936))</a:Rect>
+<a:Rect>((23230,-73108), (36692,-43936))</a:Rect>
 <a:ListOfPoints>((36692,-72011),(26042,-72011),(26042,-43936))</a:ListOfPoints>
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
@@ -4415,7 +4415,7 @@ DESTINATION 0 新宋体,8,N</a:FontList>
 <o:ReferenceSymbol Id="o36">
 <a:CreationDate>1384591524</a:CreationDate>
 <a:ModificationDate>1393657214</a:ModificationDate>
-<a:Rect>((26042,-44161), (64042,-42840))</a:Rect>
+<a:Rect>((26042,-44161), (64042,-42839))</a:Rect>
 <a:ListOfPoints>((64042,-43936),(26042,-43936))</a:ListOfPoints>
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
